@@ -1,14 +1,14 @@
 <h1>Jira Support Tickets</h1>
 
 <h2>Objective</h2>
-The objective of this lab was to simulate common Tier 1 Help Desk problems. By utilizing Active Directory and Windows administrative tools from my Active-Directory Lab environment, I aimed to restore user productivity through efficient troubleshooting of identity management and account access.
+The objective of this lab was to simulate a common Tier 1 Help Desk problem. By utilizing Active Directory and Windows administrative tools from my Active-Directory Lab environment, I aimed to restore user access through efficient troubleshooting of identity management and account access.
 <br />
 
 <h2>Project Summary</h2>
-In this lab, I raised and responsed to 2 support tickets. These included a password reset and an account unlock. I was about to learn how to conduct these tickets and document/work through the Jira environment.
+In this lab, I raised and responsed to a password reset ticket for a user through Jira. I was about to learn how to conduct the steps necessary to resvolve the issue and document the work through the Jira environment.
 <br />
 
-<h2 align="center">📝Ticket 1: Password Reset</h2>
+<h2 align="center">📝Ticket: Password Reset</h2>
 
 
 - <b>Issue Description:</b> User could not access their account due to forgetting their password.
